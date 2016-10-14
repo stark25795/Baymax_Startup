@@ -99,6 +99,6 @@ Close();”<br>
 
 Now you are ready to use your Baymax Startup software, you can test your software by pressing “F5”. Before you press “F5” make sure that you have closed every curly braces { }.<br>
 If you have any problem with your coding just leave a message 😉 <br>
-You can download Baymax Code from the link below : <a href="https://github.com/stark25795/Baymax_Startup"><br>
-You can also download "How to make Baymax" PDF from the link below : <a href="https://drive.google.com/file/d/0BzQ8yfuAE9O1dkVLdFdhLS1JZlk/view?usp=sharing">. <br>
+You can download Baymax Code from the link below : https://github.com/stark25795/Baymax_Startup<br>
+You can also download "How to make Baymax" PDF from the link below : https://drive.google.com/file/d/0BzQ8yfuAE9O1dkVLdFdhLS1JZlk/view?usp=sharing. <br>
 ✌️👍
